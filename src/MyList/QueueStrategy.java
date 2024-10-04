@@ -1,3 +1,5 @@
+package MyList;
+
 public class QueueStrategy implements ListStrategy{
 
     @Override
